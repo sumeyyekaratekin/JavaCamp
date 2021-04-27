@@ -1,2 +1,2 @@
 # JavaCamp
-intro project
+basic java projects
